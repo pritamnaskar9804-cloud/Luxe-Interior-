@@ -1,0 +1,11 @@
+# Luxe Interior — Robots.txt
+# Designed by Pritam Naskar (Rehan'Z Digital Network)
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl-delay (optional, prevents aggressive crawling)
+Crawl-delay: 1
